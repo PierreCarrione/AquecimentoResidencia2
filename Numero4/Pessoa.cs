@@ -4,7 +4,7 @@ public class Pessoa
 {
     private string nome;
     private CertidaoNascimento certidao;
-    private static int check;
+    private int check;
 
     public Pessoa(string nome)
     {
